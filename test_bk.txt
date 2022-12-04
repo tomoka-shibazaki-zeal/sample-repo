@@ -1,0 +1,10 @@
+Git Practice
+SECTION 1
+"git init"
+
+
+SECTION 2
+"git clone"
+
+SECTION 3
+"cd repositories"
