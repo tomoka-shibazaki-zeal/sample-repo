@@ -1,3 +1,0 @@
-Git Practice
-SECTION 1
-"git init"
